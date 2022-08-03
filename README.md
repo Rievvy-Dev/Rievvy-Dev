@@ -19,5 +19,3 @@
 </div><br/>
 
 Atualmente estudo Ciência da Computação na UFAPE, faço parte do LMTS (Laboratório Multidisciplinar de Tecnologias Sociais) como desenvolvedor Front-End usando o framework Flutter. 
-
-                                                                                                                                               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rievvy-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
