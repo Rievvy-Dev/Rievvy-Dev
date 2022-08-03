@@ -15,8 +15,8 @@
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
-  ### Sou desenvolvedor Full-Stack Flutter pelo LMTS (Laboratório Multidisciplinar de Tecnologias Sociais).
   ##
+  ### Sou desenvolvedor Full-Stack Flutter pelo LMTS (Laboratório Multidisciplinar de Tecnologias Sociais).
  
 <div> 
   <a href = "mailto:thiagoalmeidadepaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank"></a>
