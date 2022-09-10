@@ -1,4 +1,4 @@
-## Olá! Meu nome é Thiago Almeida. 👋
+## Olá! Meu nome é Thiago Almeida 👋
 
 <div align="center">
   <a href="https://github.com/Rievvy-Dev">
